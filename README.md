@@ -9,6 +9,10 @@ It is a description or template for how to solve a problem that can be used in m
 
 
 ### 1. Creational Patterns
+Creational patterns focus on object creation mechanisms, providing ways to create objects in a manner suitable for 
+a particular situation. They help decouple the client code from the object creation process, promoting flexibility and extensibility.
+
+
 - **Singleton:** Ensures a class has only one instance and provides a global point of access to it. 
 - 
 
