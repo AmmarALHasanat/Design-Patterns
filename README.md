@@ -7,6 +7,16 @@ It is a description or template for how to solve a problem that can be used in m
 
 ## Types of Design Patterns
 
+
 ### 1. Creational Patterns
+- **Singleton:** Ensures a class has only one instance and provides a global point of access to it. 
+- 
+
+
 ### 2. Structural Patterns
+- **Flyweight:**
+-
+
 ### 3. Behavioral Patterns
+- **Strategy:**
+- 
