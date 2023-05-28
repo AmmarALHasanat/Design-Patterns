@@ -22,5 +22,5 @@ a particular situation. They help decouple the client code from the object creat
 -
 
 ### 3. Behavioral Patterns
-- **Strategy:**
+- **Strategy:** Defines a family of interchangeable algorithms, encapsulates each one, and makes them interchangeable at runtime.
 - 
