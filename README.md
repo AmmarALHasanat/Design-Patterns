@@ -18,7 +18,7 @@ a particular situation. They help decouple the client code from the object creat
 
 
 ### 2. Structural Patterns
-- **Flyweight:**
+- **Flyweight:** "that lets you fit more objects into the available amount of RAM by sharing common parts of state between multiple objects instead of keeping all of the data in each object".
 -
 
 ### 3. Behavioral Patterns
